@@ -1,7 +1,15 @@
+
+#button{
+  color:red;
+  fontStyle:normal;
+  fontSize:'30px';
+}
 .redColor {
-  color: red;
+  fontStyle:normal;
+  fontSize:'30px';
 }
 
 .blueColor {
-  color: blue;
+  fontStyle:italics;
+  fontSize:'30px';
 }
